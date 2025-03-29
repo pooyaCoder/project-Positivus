@@ -1,12 +1,10 @@
 import './App.css'
-
+import AboutUs from "./AboutUs";
 function App() {
 
   return (
     <>
-      <div>
-        <h1 className='text-blue-500 size-3'>Hello</h1>
-      </div>
+      <AboutUs></AboutUs>
       
     </>
   )
